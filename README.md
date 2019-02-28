@@ -2,6 +2,12 @@
 
 A simple library for getting a waifu from thiswaifudoesnotexist.net
 
+## Installing
+
+```
+$ npm install --save twdne.js
+```
+
 ## Usage
 
 ```js
