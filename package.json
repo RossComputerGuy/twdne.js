@@ -1,0 +1,28 @@
+{
+  "name": "twdne.js",
+  "version": "1.0.0",
+  "description": "A simple library for getting a waifu from thiswaifudoesnotexist.net",
+  "main": "index.js",
+  "keywords": [
+    "joke",
+    "waifu",
+    "anime"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaceboyRoss01/twdne.js.git"
+  },
+  "author": "Spaceboy Ross",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SpaceboyRoss01/twdne.js/issues"
+  },
+  "homepage": "https://github.com/SpaceboyRoss01/twdne.js#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
